@@ -8,7 +8,7 @@ fetch('data.json')
       let colorsHTML = "";
 
       product.colors.forEach((color, key) => {
-        colorsHTML += `<input type="radio" id="color-${key}" name="color-variant" style="--bg-color: ${color}">`;
+        colorsHTML += `<input type="radio" id="product-${product.id}-color-${key}" style="--bg-color: ${color}">`;
       });
 
       productsHTML += `
