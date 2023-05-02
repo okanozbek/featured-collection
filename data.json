@@ -1,0 +1,28 @@
+{
+  "currency": "€",
+  "products": [
+    {
+      "name": "Organic Skinny High Waist Jeans",
+      "price": 33.95,
+      "colors": ["#99C3CC", "#CC9999", "#CB99CC", "#A6CC99"],
+      "image": "/assets/images/daily-product-1.jpg",
+      "link": "/product1"
+    },
+    {
+      "name": "Organic Skinny High Waist Jeans",
+      "price": 33.95,
+      "colors": ["#99C3CC", "#CC9999", "#CB99CC", "#A6CC99"],
+      "image": "/assets/images/daily-product-2.jpg",
+      "link": "/product2"
+    },
+    {
+      "name": "Organic Skinny High Waist Jeans",
+      "price": 33.95,
+      "colors": ["#99C3CC", "#CC9999", "#CB99CC", "#A6CC99"],
+      "image": "/assets/images/daily-product-3.jpg",
+      "link": "/product3"
+    }
+  ]
+}
+
+
